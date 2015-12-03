@@ -1,7 +1,7 @@
 {
-    "name": "nategood/commando",
+    "name": "vcn/commando",
     "description": "PHP CLI Commando Style",
-    "homepage": "http://github.com/nategood/commando",
+    "homepage": "http://github.com/vcn/commando",
     "license": "MIT",
     "keywords": ["cli", "command line", "command", "command line interface", "scripting", "automation"],
     "authors": [
@@ -15,7 +15,6 @@
         "kevinlebrun/colors.php": "0.2.*"
 
     },
-    "version": "0.2.7",
     "autoload": {
         "psr-0": {"Commando": "src/"}
     }

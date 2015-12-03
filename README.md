@@ -1,4 +1,7 @@
 # Commando
+
+Fork of [https://github.com/nategood/commando](https://github.com/nategood/commando) since it seemed abandoned and I required a new version to be tagged.
+
 ## An Elegant PHP CLI Library
 
 [![Build Status](https://secure.travis-ci.org/nategood/commando.png?branch=master)](http://travis-ci.org/nategood/commando)
